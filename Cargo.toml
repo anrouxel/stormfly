@@ -11,3 +11,4 @@ hyper-util = { version = "0.1", features = ["full"] }
 tracing = "0.1"
 tracing-subscriber = "0.3"
 rquickjs = "0.14.0"
+hickory-resolver = "0.26.4"
